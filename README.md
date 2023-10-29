@@ -1,4 +1,4 @@
-# <span style="color:#9300ff">Hi there, I'm Lucie! 👋</span>
+# <span style="color:purple">Hi there, I'm Lucie! 👋</span>
 
 ### <span style="color:#9300ff">I'm a junior fullstack developer based in Prague, Czech Republic!</span>
 <p align="left">I currently work as a fullstack web developer in a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.</p>
@@ -14,7 +14,7 @@
   🎲 Some of my hobbies include cooking & baking, reading, going for walks, all sorts of movement (strength workouts, swimming, tennis and yoga are my favorite ones), traveling and sometimes drawing.
 </p>
 
-###<span style="color:#9300ff">Connect With Me</span>
+### <span style="color:#9300ff">Connect With Me</span>
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lucie-yarish-272219224/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lucie-yarish-272219224/#gh-dark-mode-only)
 
