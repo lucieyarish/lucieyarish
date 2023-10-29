@@ -2,7 +2,7 @@
 
 ### I'm a junior fullstack developer based in Prague, Czech Republic!
 
-## About me
+## About Me
 
 <p align="left">✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 1.5 years now.<br>📚 I'm currently learning mainly frontend development as it's something I really enjoy. <br>🎯 Goals: Become proficient in JavaScript, React & TypeScript and possibly educate myself in UX/UI design as well!<br>🎲 Fun fact: I can speak Chinese because that's what my career path was before I had decided to switch to web dev, and learning Chinese is something I still enjoy doing!</p>
 
