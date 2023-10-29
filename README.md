@@ -1,7 +1,7 @@
 # Hi there, I'm Lucie! 👋
 
 ### I'm a junior fullstack developer based in Prague, Czech Republic!
-<p align="left">I currently work as a fullstack web developer in a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.</p>
+<p align="left">I currently work in a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.</p>
 
 ### About Me!
 
