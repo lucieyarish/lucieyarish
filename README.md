@@ -9,9 +9,10 @@
   ✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 1.5 years now.<br>
   🌱 I'm currently learning mainly frontend development as it's something I really enjoy. <br>
   🎯 Goals: Become proficient in JavaScript, React & TypeScript and possibly educate myself in UX/UI design as well!<br>
-  📚 Before my current career, I studied to become a sinologist and Chinese English translator, and also worked as an English language teacher.
-  ⚡ Fun fact: I can speak Chinese thanks to my previous career path, and learning Chinese is something I still enjoy doing from time to time!</p>
+  📚 Before my current career, I studied to become a sinologist and Chinese English translator, and also worked as an English language teacher.<br>
+  ⚡ Fun fact: I can speak Chinese thanks to my previous career path, and learning Chinese is something I still enjoy doing from time to time!<br>
   🎲 Some of my hobbies include cooking & baking, reading, going for walks, all sorts of movement (strength workouts, swimming, tennis and yoga are my favorite ones), traveling and sometimes drawing.
+</p>
 
 ## Connect With Me
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lucie-yarish-272219224/#gh-light-mode-only)
