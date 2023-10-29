@@ -4,21 +4,11 @@
 
 <p align="left">My name is Lucie and I'm a junior fullstack developer based in Prague, Czech Republic.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+## About me
 
 <p align="left">✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 1.5 years now.<br>📚 I'm currently learning mainly frontend development as it's something I really enjoy. <br>🎯 Goals: Become proficient in JavaScript, React & TypeScript and possibly educate myself in UX/UI design as well!<br>🎲 Fun fact: I can speak Chinese because that's what my career path was before I had decided to switch to web dev, and learning Chinese is something I still enjoy doing!</p>
 
-###
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+### Languages and Tools:
 
 <div align="left">
   
