@@ -17,6 +17,7 @@
 ### Connect With Me
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lucie-yarish-272219224/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lucie-yarish-272219224/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/luciecodes/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/luciecodes/#gh-dark-mode-only)
 
