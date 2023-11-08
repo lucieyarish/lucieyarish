@@ -1,9 +1,9 @@
 # Hi there, I'm Lucie! 👋
 
 ### I'm a junior fullstack developer based in Prague, Czech Republic!
-<p align="left">I work at a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.</p>
+I work at a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.
 
-<p align="left">I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-base. Browse through my repositories to see the stuff I've worked on over the past two months!</p>
+I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-base. Browse through my repositories to see the stuff I've worked on over the past two months!
 
 ### About Me!
 
