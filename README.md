@@ -5,7 +5,7 @@ I work at a Czech software company whose main focus is on projects for automotiv
 
 I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-based and awesome! Browse through my repositories to see the stuff I've worked on over the past two months!
 
-### About Me!
+### About Me
 
 <p align="left">
   ✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 1.5 years now.<br>
