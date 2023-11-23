@@ -3,7 +3,7 @@
 ### I'm a junior fullstack developer based in Prague, Czech Republic!
 I work at a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.
 
-I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-based and awesome! Browse through my repositories to see the stuff I've worked on over the past two months, or click here to read about [my learning journey](https://lucieyarish.hashnode.dev/).
+I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-based and awesome! Browse through my repositories to see the stuff I've worked on over the past two months, or [click here](https://lucieyarish.hashnode.dev/) to read about my learning journey.
 
 ### About Me
 
