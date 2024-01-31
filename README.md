@@ -1,16 +1,16 @@
 # Hi there, I'm Lucie! 👋
 
-### I'm a junior fullstack developer based in Prague, Czech Republic!
+### I'm a fullstack developer based in Prague, Czech Republic!
 I work at a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, Java, Spring Framework, Axon Framework, and MongoDB.
 
-I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-based and awesome! Browse through my repositories to see the stuff I've worked on over the past two months, or [click here](https://lucieyarish.hashnode.dev/) to read about my learning journey.
+I'm currently learning frontend development through [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The whole course is heavily project-based and awesome! Browse through my repositories to see the stuff I've worked on. When I have time, I also enjoy writing articles about projects that I've worked on, soft skills, and technical contepts. [click here](https://lucieyarish.hashnode.dev/) to read the few articles I had written so far!
 
 ### About Me
 
 <p align="left">
-  ✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 1.5 years now.<br>
+  ✨ I became a developer after attending an intensive programming bootcamp and I've been working as one for over 2 years now.<br>
   🌱 I'm currently focusing on learning frontend development as it's something I really enjoy! <br>
-  🎯 Goals: Become proficient in JavaScript, React & TypeScript and possibly educate myself in UX/UI design as well!<br>
+  🎯 Goals: Become proficient in JavaScript, React & TypeScript and educate myself in UX/UI design as well!<br>
   📚 Before my current career, I studied to become a sinologist and Chinese English translator, and also worked as an English language teacher.<br>
   ⚡ Fun fact: I can speak Chinese thanks to my previous career path, and learning Chinese is something I still enjoy doing from time to time!<br>
   🎲 Some of my hobbies include cooking & baking, reading, going for walks, all sorts of movement (strength workouts, swimming, tennis and yoga are my favorite ones), traveling and drawing.
