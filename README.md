@@ -3,8 +3,6 @@
 ### I'm a fullstack developer based in Prague, Czech Republic!
 I work at a Czech software company whose main focus is on projects for automotive industry. Technologies I use on daily basis: React, TypeScript, Redux, styled-components, Ant Design, Java, Spring Framework, Axon Framework, and MongoDB.
 
-I'm currently part of tech tech squad brought together by a wonderful, volunteer-led organization, 🍒 [Cherry on Tech](https://cherryon.tech/). Our cross-functional squad, Saturn Spinners, consists of two UX/UI designers, a UX writer, two product managers and three developers. We are working in a full-remote, asynchronous setting, while following agile methodologies. During this 3-month long internship, my fellow teammates and I are working on creating and developing a product from the ground up.
-
 I've also been working on solidifying my knowledge of frontend development through 💻 [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), a self-paced bootcamp that teaches everything related to HTML, CSS, JavaScript, React, Firebase, UI design, and much more. The course is heavily project-based and awesome! Browse through my repositories to see the stuff I build so far! 
 
 I also enjoy writing articles about projects that I've worked on, soft skills, and technical contepts. [Click here](https://lucieyarish.hashnode.dev/) to read the few articles I had written so far!
